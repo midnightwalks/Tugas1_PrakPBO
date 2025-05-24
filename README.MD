@@ -2,10 +2,10 @@
 
 1. Program ini merupakan aplikasi GUI sederhana menggunakan Java Swing yang terdiri dari dua tampilan:  
    a. Frame1 (Login Page)  
-      Halaman awal di mana pengguna diminta untuk:  
+      Halaman awal di mana pengguna diminta untuk: 
       - Mengisi username dan password.  
       - Memilih jenis kelamin (Laki-laki atau Perempuan).  
-      - Menekan tombol login.  
+      - Menekan tombol login. 
 b. Frame2 (Main Page)  
       Setelah login, pengguna akan diarahkan ke halaman utama untuk menghitung berbagai parameter dari sebuah balok berdasarkan input:  
       - Panjang  
