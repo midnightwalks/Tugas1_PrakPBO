@@ -5,8 +5,8 @@
       Halaman awal di mana pengguna diminta untuk: 
       - Mengisi username dan password.  
       - Memilih jenis kelamin (Laki-laki atau Perempuan).  
-      - Menekan tombol login. 
-b. Frame2 (Main Page)  
+      - Menekan tombol login.  
+   b. Frame2 (Main Page)  
       Setelah login, pengguna akan diarahkan ke halaman utama untuk menghitung berbagai parameter dari sebuah balok berdasarkan input:  
       - Panjang  
       - Lebar  
